@@ -1,0 +1,11 @@
+staticfiles.json
+js/
+css/
+admin/
+wagtailadmin/
+wagtailimages/
+wagtaildocs/
+wagtailsearch/
+wagtailsnippets/
+wagtailusers/
+wagtailembeds/
